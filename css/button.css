@@ -1,0 +1,195 @@
+.button-index, 
+#myBtn, 
+#myBtn2, 
+#myBtn3, 
+#myBtn4, 
+#myBtn5, 
+#myBtn6, 
+#myBtn7, 
+#myBtn_1, 
+#myBtn_2,
+#myBtn_3, 
+#myBtn_linux, 
+#myBtn_win, 
+#myBtn_ccna,
+#myBtn_dev,
+#myBtn_front,
+.email {
+  border: none;
+  color: #fff;
+}
+
+.button-index, 
+#myBtn, 
+#myBtn2, 
+#myBtn3, 
+#myBtn4, 
+#myBtn5, 
+#myBtn6, 
+#myBtn7, 
+#myBtn_1, 
+#myBtn_2,
+#myBtn_3, 
+#myBtn_linux, 
+#myBtn_win, 
+#myBtn_ccna,
+#myBtn_ciscoS,
+#myBtn_ciscoR,
+#myBtn_ciscoI,
+#myBtn_ciscoA,
+#myBtn_dev,
+#myBtn_front,
+.email {
+  opacity: 75%;
+  text-align: center;
+  text-decoration: none;
+  cursor: pointer;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.4s;
+}
+
+.button-index, 
+#myBtn, 
+#myBtn2, 
+#myBtn3, 
+#myBtn4, 
+#myBtn5, 
+#myBtn6, 
+#myBtn7, 
+#myBtn_1, 
+#myBtn_2, 
+#myBtn_3,
+.email {
+  background-color: #9ac983;
+}
+
+#myBtn_linux, 
+#myBtn_win,
+#myBtn_ccna, 
+#myBtn_dev,
+#myBtn_front {
+  background-color: grey;
+}
+ 
+#myBtn_ciscoS,
+#myBtn_ciscoR,
+#myBtn_ciscoI,
+#myBtn_ciscoA {
+  background-color: white;
+  color: grey;
+  border: 1px solid grey;
+}
+
+#myBtn, 
+#myBtn2, 
+#myBtn3, 
+#myBtn4, 
+#myBtn5, 
+#myBtn6, 
+#myBtn7, 
+#myBtn_1, 
+#myBtn_2, 
+#myBtn_3 {
+  font-size: 12px;
+  padding: 6px 8px;
+  border-radius: 5px;
+  margin-bottom: 30px;
+
+}
+
+#myBtn_linux, 
+#myBtn_win, 
+#myBtn_ccna, 
+#myBtn_ciscoS,
+#myBtn_ciscoR,
+#myBtn_ciscoI,
+#myBtn_ciscoA,
+#myBtn_dev,
+#myBtn_front {
+  font-size: 10px;
+  padding: 3px 4px;
+  border-radius: 2px;
+  margin-left: 5px;
+}
+
+
+.button-index, .email{
+  position: absolute;
+  z-index: 1;
+  padding: 15px 32px;
+  border-radius: 10px;
+  font-size: 16px;
+  top: 400px;
+}
+
+.button-index{
+  left: 40%;
+}
+
+.email {
+  top: 400px;
+  left: 30%;
+}
+
+.button-index:hover, .email:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+    color: rgb(240, 237, 148);
+}
+
+#myBtn:hover, 
+#myBtn2:hover, 
+#myBtn3:hover, 
+#myBtn4:hover, 
+#myBtn5:hover, 
+#myBtn6:hover, 
+#myBtn7:hover, 
+#myBtn_1:hover, 
+#myBtn_2:hover, 
+#myBtn_3:hover, 
+#myBtn_linux:hover, 
+#myBtn_win:hover, 
+#myBtn_ccna:hover, 
+#myBtn_ciscoS:hover,
+#myBtn_ciscoR:hover,
+#myBtn_ciscoI:hover,
+#myBtn_ciscoA:hover,
+#myBtn_dev:hover,
+#myBtn_front:hover {
+  box-shadow: 0 6px 8px 0 rgba(0,0,0,0.10),0 7.5px 25px 0 rgba(0,0,0,0.10);
+}
+
+#myBtn:hover, 
+#myBtn2:hover, 
+#myBtn3:hover, 
+#myBtn4:hover, 
+#myBtn5:hover, 
+#myBtn6:hover, 
+#myBtn7:hover, 
+#myBtn_1:hover, 
+#myBtn_2:hover, 
+#myBtn_3:hover, 
+#myBtn_linux:hover, 
+#myBtn_win:hover, 
+#myBtn_ccna:hover, 
+#myBtn_dev:hover,
+#myBtn_front:hover {
+  color: rgb(240, 237, 148);
+}
+
+
+#myBtn_ciscoS:hover,
+#myBtn_ciscoR:hover,
+#myBtn_ciscoI:hover,
+#myBtn_ciscoA:hover {
+  color: #9ac983;
+}
+
+
+
+
+
+
+
+
+
+
