@@ -1,3 +1,20 @@
+function btnFunction8() {
+    var dots2 = document.getElementById("dots8");
+    var moreText2 = document.getElementById("more8");
+    var btnText2 = document.getElementById("myBtn8");
+
+    if (dots2.style.display === "none") {
+        dots2.style.display = "inline";
+        btnText2.innerHTML = "Ler mais";
+        moreText2.style.display = "none";
+    } else {    
+        dots2.style.display = "none";
+        btnText2.innerHTML = "Ler menos";
+        moreText2.style.display = "inline";
+    }
+}
+
+
 function btnFunction() {
     var dots = document.getElementById("dots");
     var moreText = document.getElementById("more");
