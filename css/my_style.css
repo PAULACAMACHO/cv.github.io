@@ -233,7 +233,8 @@ color: var(--clr-yellow);
 .text-content4, 
 .text-content5, 
 .text-content6, 
-.text-content7 {
+.text-content7,
+.text-content8{
   padding-left: 10%;
   padding-right: 10%;
   line-height: 2;
