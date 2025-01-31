@@ -132,8 +132,7 @@
 
 .email {
   top: 400px;
-  margin-left: 50%;
-  with: 100%;
+  left: 40%;
 }
 
 .button-index:hover, .email:hover {
