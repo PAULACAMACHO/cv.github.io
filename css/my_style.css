@@ -174,7 +174,7 @@ color: var(--clr-yellow);
 .text h2{
   font-size: 30px;
   top: 200px;
-  text-transform: capitalize;
+  text-transform: uppercase;
 }
 
 #hello, 
